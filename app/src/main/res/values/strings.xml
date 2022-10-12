@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BattleCity</string>
+    <string name="menu_settings">settings</string>
+    <string name="save">save</string>
+    <string name="start">start game</string>
+</resources>
